@@ -1,0 +1,1 @@
+This repository contains my Python exercises where I solve various programming tasks.

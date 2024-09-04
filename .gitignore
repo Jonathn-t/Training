@@ -1,0 +1,9 @@
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers de cache
+__pycache__/
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.vscode/
+
